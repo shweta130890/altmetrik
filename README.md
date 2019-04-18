@@ -10,3 +10,7 @@
 
 ### Command to execute Test 
 > phpunit PrimeTest.php
+
+### Output
+![Alt text](/blob/master/prime.png?raw=true "Output")
+
