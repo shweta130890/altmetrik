@@ -12,5 +12,5 @@
 > phpunit PrimeTest.php
 
 ### Output
-![Alt text](/blob/master/prime.png?raw=true "Output")
+![](/prime.png?raw=true "Output")
 
